@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/your_username/repo_name">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="data-science-logo-icon.png" alt="Logo" >
   </a>
 
   <h3 align="center">MY DATA SCIENCE - SITE</h3>
@@ -10,7 +10,7 @@
   <p align="center">
     WELLCOM TO MY SITE ABOUT MY PROGRESS AS A DATA SCIENCE
     <br />
-    <a href="https://github.com/your_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adenadit/My-Data-Science-Site/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/your_username/repo_name/issues">Report Bug</a>
@@ -22,7 +22,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [About the Project](#about-the-project)
+- [Numpy](#Numpy)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -33,8 +33,8 @@
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Numpy -->
+## Numpy
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
