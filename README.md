@@ -22,16 +22,18 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [Numpy](#Numpy)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Roadmap](#roadmap)
+- [Numpy](#Numpy)
+- [Pandas](#Pandas)
+- [Usage](#usage)
+
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+
+
+<!-- Roadmap -->
+## Roadmap
 
 <!-- Numpy -->
 ## Numpy
