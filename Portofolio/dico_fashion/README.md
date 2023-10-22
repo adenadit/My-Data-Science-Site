@@ -21,7 +21,7 @@ Sebagai perusahaan kekinian, DiCo menyadari betapa pentingnya data bagi perkemba
 - menilai kualitas dari data yang telah dikumpulkan
 - membersihkan data tersebut sehingga siap untuk dianalisis.
 
-### Alur-Latihan
+### Alur Latihan
 - Tahap persiapan.
 - Tahap gathering data.
 - Tahap assessing data.
