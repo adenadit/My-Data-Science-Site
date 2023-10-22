@@ -4,7 +4,7 @@
 ## Index
 * [Data Wrangling](#Data-Wrangling)
     * [Tujuan](#Tujuan)
-    * [Alur Latihan](#Alur_Latihan)
+    * [Alur Latihan](#Alur-Latihan)
 ### Background
 Dicoding Collection atau sering disingkat DiCo merupakan sebuah perusahaan yang bergerak di bidang fashion. Ia memproduksi berbagai item fashion dan menjualnya melalui platform online.
 
