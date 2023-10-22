@@ -5,8 +5,8 @@
     * [Tujuan](#Tujuan)
     * [Alur Latihan](#Alur-Latihan)
 * [Exploratory Data Analysis](#exploratory-data-analysis-eda)
-    * [Tujuan](#Tujuan)
-    * [Alur Latihan](#Alur-Latihan)
+    * [Tujuan](#Tujuan-1)
+    * [Alur Latihan](#Alur-Latihan-1)
       
 ## Background
 Dicoding Collection atau sering disingkat DiCo merupakan sebuah perusahaan yang bergerak di bidang fashion. Ia memproduksi berbagai item fashion dan menjualnya melalui platform online.
