@@ -4,6 +4,9 @@
 * [Data Wrangling](#Data-Wrangling)
     * [Tujuan](#Tujuan)
     * [Alur Latihan](#Alur-Latihan)
+* [Exploratory Data Analysis](#Exploratory Data Analysis)
+    * [Tujuan](#Tujuan)
+    * [Alur Latihan](#Alur-Latihan)
       
 ## Background
 Dicoding Collection atau sering disingkat DiCo merupakan sebuah perusahaan yang bergerak di bidang fashion. Ia memproduksi berbagai item fashion dan menjualnya melalui platform online.
@@ -27,3 +30,12 @@ Sebagai perusahaan kekinian, DiCo menyadari betapa pentingnya data bagi perkemba
 - Tahap assessing data.
 - Tahap cleaning data
 
+## Exploratory Data Analysis (EDA)
+### Tujuan
+- membuat pertanyaan analisis atau bisnis yang ingin dicari jawabannya
+- melakukan eksplorasi terhadap setiap data untuk mencari insight menarik guna menjawab pertanyaan bisnis tersebut.
+
+### Alur Latihan
+- Tahap persiapan
+- Tahap penentuan pertanyaan bisnis untuk explorasi data
+- Tahap eksplorasi data
