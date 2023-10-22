@@ -4,7 +4,7 @@
 * [Data Wrangling](#Data-Wrangling)
     * [Tujuan](#Tujuan)
     * [Alur Latihan](#Alur-Latihan)
-* [Exploratory Data Analysis](#Exploratory Data Analysis)
+* [Exploratory Data Analysis](#exploratory-data-analysis-eda)
     * [Tujuan](#Tujuan)
     * [Alur Latihan](#Alur-Latihan)
       
